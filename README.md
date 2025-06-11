@@ -54,14 +54,18 @@ This project performs exploratory data analysis (EDA) on a personality traits da
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Jupyter Notebook
 
-## 📌 Usage
-
+📌 Usage  
 To run the analysis:
 
 ```bash
 jupyter notebook EDA_Personality_Check.ipynb
 
----
+
+
+
+
+
+
 
 ## 📬 Contact
 
