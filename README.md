@@ -61,6 +61,8 @@ To run the analysis:
 ```bash
 jupyter notebook EDA_Personality_Check.ipynb
 
+---
+
 ## 📬 Contact
 
 For any questions or suggestions, feel free to [open an issue](https://github.com/Praagya007/Personality_Dataset_EDA/issues) or reach out directly!
